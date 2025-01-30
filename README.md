@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melanie-vera
 - 👀 I’m interested in economics and coding
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on finantial market analysis, fiscal sustainability and international economics.
+- 💞️ I’m looking to collaborate on economics topics.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Chilean birds :bird:
 
